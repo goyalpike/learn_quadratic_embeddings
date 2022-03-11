@@ -1,0 +1,8 @@
+*.DS_Store
+*.aux
+*.log
+*.bbl
+*/__pycache__/
+*.big
+*.synctex.gz
+*/.ipynb_checkpoints/
